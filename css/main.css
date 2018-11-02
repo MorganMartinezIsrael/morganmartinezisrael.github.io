@@ -8,6 +8,7 @@ body{
     background-color: #263238;
     padding: 0px;   
     border-bottom: 5px solid #263238;
+    position: fixed;
 }
 
 .columna{
@@ -57,7 +58,7 @@ body{
 }
 
 .menu-izquierdo ul li a:focus{
-  background: #51da86;
+  background-color: #51da86;
 }
 
 p{
