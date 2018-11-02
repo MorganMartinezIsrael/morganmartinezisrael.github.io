@@ -77,3 +77,15 @@ p{
   text-align: center;
   
 }
+
+.imagen-titular{
+  position: absolute;
+}
+
+#imagen-logo{
+  border-radius: 3%;
+}
+
+#nombre-autor{
+  color: whitesmoke;
+}
