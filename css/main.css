@@ -13,8 +13,7 @@ body{
 .columna{
   margin: 0px;
   padding: 0px;
-  padding-bottom: 1000px;
-  margin-bottom: -1000px;
+  padding-bottom: 100%;
   overflow: hidden;
 }
 
@@ -36,7 +35,6 @@ body{
 }
   
 .menu-izquierdo ul li {
-  font: 20px Helvetica, Verdana, sans-serif;
   margin-bottom: 8px;
 }
 
@@ -52,6 +50,7 @@ body{
   color:antiquewhite;
   display: block;
   font-size: 15px;
+  font: 20px 'Concert One', cursive;
   padding: 10px;
 }
   
@@ -60,7 +59,7 @@ body{
 }
 
 p{
-  font-family: Helvetica, Verdana, sans-serif;  
+  font-family: 'Noto Sans', sans-serif;
 }
 
 /* hanspfall exclusive */
