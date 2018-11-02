@@ -39,9 +39,7 @@ body{
   border-left: 5px solid #51da86;
 }
 
-.menu-izquierdo ul li:hover {
-  background: #f6f6f6;
-}
+
 
   
 .menu-izquierdo ul li a {
@@ -56,6 +54,10 @@ body{
 .menu-izquierdo ul li a:hover {
   background: #0d47a1;
   cursor: pointer;
+}
+
+.menu-izquierdo ul li a:focus{
+  background: #51da86;
 }
 
 p{
