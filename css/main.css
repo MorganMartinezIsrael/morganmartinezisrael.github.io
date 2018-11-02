@@ -36,33 +36,41 @@ body{
   
 .menu-izquierdo ul li {
   margin-bottom: 8px;
+  border-left: 5px solid #51da86;
 }
 
 .menu-izquierdo ul li:hover {
   background: #f6f6f6;
 }
-.menu-izquierdo ul li:last-child {
-  border: none;
-}
+
   
 .menu-izquierdo ul li a {
   text-decoration: none;
   color:antiquewhite;
   display: block;
   font-size: 15px;
-  font: 20px 'Concert One', cursive;
-  padding: 10px;
+  font: 20px 'Concert One';
+  padding: 5px;
 }
   
 .menu-izquierdo ul li a:hover {
   background: #0d47a1;
+  cursor: pointer;
 }
 
 p{
   font-family: 'Noto Sans', sans-serif;
 }
 
-/* hanspfall exclusive */
+
 .right-phrase{
   text-align: right;
+}
+
+.titulo-cuento{
+  font-family: 'Open Sans';
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+  
 }
