@@ -45,7 +45,8 @@ hr{
 .columna{
   margin: 0px;
   padding: 0px;
-  padding-bottom: 100%;
+  padding-bottom: 1000px;
+  margin-bottom: -1000px;
   overflow: hidden;
 }
 
@@ -136,4 +137,15 @@ hr{
   font-family: 'Open Sans';
   text-align: center;
 
+}
+
+#imagen-cuervo{
+  width: 20%;
+  margin-left: 40%;
+  margin-top: 30px;
+}
+
+#disqus_thread{
+  margin-right: 10px;
+  margin-left: 10px;
 }
