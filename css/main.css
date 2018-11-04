@@ -94,7 +94,9 @@ hr{
 }
 
 .right-phrase{
-  text-align: right;
+  text-align-last: right;
+  font-style: italic;
+  margin: 0px;
 }
 
 .titulo-cuento{
