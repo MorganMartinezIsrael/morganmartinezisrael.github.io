@@ -6,7 +6,7 @@ p{
   font-family: 'Noto Sans', sans-serif;
 }
 
-strong{
+.emfasis-letra{
   font-size: 30px;
   color: darkgreen;
 }
@@ -116,6 +116,10 @@ hr{
   font-family: 'Open Sans';
   font-style: italic;
   margin-left: 30px;
+}
+
+.glosario-termino{
+  text-shadow: 1px 1px 2px darkgrey;
 }
 
 #imagen-logo{
