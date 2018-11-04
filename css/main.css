@@ -149,6 +149,16 @@ hr{
   margin-top: 30px;
 }
 
+#contador-comentarios{
+  text-align: right;
+  font-family: 'Open Sans';
+  color: #034e94;
+  text-decoration: none;
+}
+#contador-comentarios:hover{
+  text-decoration: underline;
+}
+
 #disqus_thread{
   margin-right: 10px;
   margin-left: 10px;
